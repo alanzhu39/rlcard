@@ -162,4 +162,3 @@ class Game(object):
         ''' Return whether the current game is over
         '''
         raise NotImplementedError
-
